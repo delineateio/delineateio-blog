@@ -1,8 +1,7 @@
 baseURL = "https://blog.delineate.io"
 languageCode = "en-gb"
 title = "delineate.io"
-theme="archie"
-copyright = "© delineate.io"
+theme="delineateio-theme"
 pygmentsstyle = "monokailight"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true

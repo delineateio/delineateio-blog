@@ -1,0 +1,3 @@
+[submodule "themes/delineateio-theme"]
+	path = themes/delineateio-theme
+	url = https://github.com/delineateio/delineateio-theme
