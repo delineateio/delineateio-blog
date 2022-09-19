@@ -10,6 +10,11 @@ pygmentscodefencesguesssyntax = true
 	useCDN=true
 
 [[params.social]]
+name = "Web"
+icon = "monitor"
+url = "https://www.delineate.io"
+
+[[params.social]]
 name = "GitHub"
 icon = "github"
 url = "https://github.com/delineateio"
