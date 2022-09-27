@@ -2,7 +2,7 @@
 title: "Becoming an individual contributor (again!)"
 date: 2022-09-24T00:00:00+05:30
 tags: ["IC"]
-summary: "It's been my latent career goal to transition over time away from Engineering leadership back to being a hands-on software engineering Individual Contributor (IC).  This initial post of my new blog lays out the background, motivation and plan to achieve that change in direction."
+summary: "My career goal is transition over time away from Engineering leadership back to being a hands-on software engineering Individual Contributor (IC).  This post lays out background, motivation and plan to achieve that change in direction."
 ---
 
 ## tldr
@@ -24,25 +24,27 @@ This post lays out the high level background, motivations and approach to achiev
 
 **My career as a professional software developer started in 1995 working on web based applications, I remained fully hands-on for the next 10 years.**
 
-It was an exciting time.  Internet usage was minimal ([1.9% of the UK population](https://www.google.com/search?q=UK+Internet+usage+in+1995)) while conversely ideas, opportunities and dreams were endless.  I struggle to fully articulate this period, particularly to [Gen Z](https://en.wikipedia.org/wiki/Generation_Z) who don't (at least in western countries) remember a world without near constant internet connectivity and access to digital services that are integral to their lives every day.
+It was an exciting time.  Internet usage was minimal ([1.9% of the UK population](https://www.google.com/search?q=UK+Internet+usage+in+1995)) while ideas, opportunities and dreams were endless for the "new" global technology infrastructure.  I struggle to fully articulate the experience of being a developer during this period, particularly to [Gen Z](https://en.wikipedia.org/wiki/Generation_Z) who don't (at least in western countries) remember a world without near constant internet connectivity and access to digital services that are integral to their lives every day.
 
-The planet was buzzing, a generational technology revolution was taking place in real time.  In a 1999 interview with the BBC [David Bowie](https://en.wikipedia.org/wiki/David_Bowie) eloquently described the internet as an ["alien life form"](https://www.youtube.com/watch?v=8tCC9yxUIdw) that had landed on earth 👽!  There was friction in everyday life, and now worldwide interest in this new infrastructure that promised so much yet had delivered very little to the wider population.
+The planet was buzzing, a generational technology revolution was taking place in real time.  In a 1999 interview with the BBC [David Bowie](https://en.wikipedia.org/wiki/David_Bowie) eloquently described the internet as an ["alien life form"](https://www.youtube.com/watch?v=8tCC9yxUIdw) that had landed on earth 👽!
 
- I experienced and participated in (a small way) to the birth of the commercial internet, which was like a digital gold rush cumulating in the [dotcom bubble](https://en.wikipedia.org/wiki/Dot-com_bubble) and over a decade later the ongoing dominance of the [FAANG](https://www.investopedia.com/terms/f/faang-stocks.asp).  
+ I experienced and participated in (a small way) to the birth of the commercial internet, which was like a digital gold rush cumulating in the [dotcom bubble](https://en.wikipedia.org/wiki/Dot-com_bubble) and over a decade later the ongoing dominance of the [FAANG](https://www.investopedia.com/terms/f/faang-stocks.asp).  That digital gold rush promised to remove friction from many day activities, and has done a pretty good job in achieving that so far.
 
 **What a time to be alive!  What a time to be a developer!**  
 
 ### 📚 Real physical books
 
-**I'm very proud to be a self taught developer with no degree in Computer Science, indeed I have no significant [STEM](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics) qualifications.**
+**I'm proud to be a self taught developer with no degree in Computer Science, indeed I have no significant [STEM](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics) qualifications.**
 
-I used real books bought from physical shops as my primary learning tool - no YouTube videos, no [Mooc](https://www.mooc.org/), no open source which was coined in [1998](https://opensource.org/history)).  These books were very expensive, and yet littered with incorrect code snippets as the technology was moving far faster than the book authoring process ever could - ironically a perfect use case of the value of the internet!  Different world 😃.
+I used real books bought from real book shops as my primary learning tool - no YouTube videos, no [Mooc](https://www.mooc.org/), no open source which was coined in [1998](https://opensource.org/history)).  These books were very expensive, and yet littered with incorrect code snippets as the technology was moving far faster than the book authoring process ever could - ironically a perfect use case of the value of the internet!
 
-At the time this was utterly infuriating, in retrospect this was an (unintentionally I assume) an excellent way to learn. Curiosity, research and tricky debugging were daily necessities that honed the required software development skills.  I was totally obsessed and committed to the pursuit of mastering software engineering, in retrospect to almost unhealthy levels.  I would study and practice late into the night, 3am not being uncommon, while working a relatively mundane full time day job 💤.  
+At the time this was infuriating, in retrospect this was an (unintentionally I assume) an excellent way to learn. Curiosity, research and tricky debugging were daily necessities that honed the required software development skills.  I was totally obsessed and committed to the pursuit of mastering software engineering, in retrospect to almost unhealthy levels.  I would study and practice late into the night, 3am not being uncommon, while working a relatively mundane full time day job 💤.  
 
 ### 🐛 Caught by the bug
 
-I was intoxicated by the constant learning, problem solving and being able to build solutions that solved real world challenges.  I caught (pun intended) the bug of software engineering and it has subsequently shaped my entire professional and personal life.  Quite simply, I loved being a software developer.  
+I was intoxicated by the constant learning, problem solving and being able to build solutions that solved real world challenges.  
+
+I caught (pun intended) the bug of software engineering and it has subsequently shaped my life, professional and personal, and I loved being a software developer.
 
 **I feel immensely grateful to have had a job I loved, travelled the world while being paid to do it 🙏.  Yet, this post isn't about the halcyon past, it's about about my plans for the future.**
 
@@ -52,11 +54,11 @@ I was intoxicated by the constant learning, problem solving and being able to bu
 
 The last meaningful software product I developed was in early 2009, a common application framework using the Microsoft .NET written in C#.  The libraries where consumed by other dev teams, and formed the foundation of many mortgage related software solutions at [Barclays](https://home.barclays/).
 
-From 2005 onwards I increasingly moved into engineering management & leadership.  Being candid, in the beginning, it was an archetypal example of an unplanned and underprepared for transition.  It transpired for the worst of all reasons... I was a decent senior developer, and somehow that was supposed to mean I would be a good manager 😂.  I did not enjoy it at all and regularly questioned if it was worth it.
+From 2005 onwards I increasingly moved into engineering management & leadership.  Being candid, in the beginning, it was an archetypal example of an unplanned and underprepared for transition.  It transpired for the worst of all reasons... I was a decent senior developer, and somehow that was supposed to mean I would be a good manager 😂.
 
 ### ☑️ It's a hard transition
 
-There was not the appreciation, support or resources of today's industry on this hard and difficult transition.  Now, this is recognised.  If you are considering taking this career path, here is some recommended reading...
+There was not the appreciation, support or resources of today's industry on just how hard and difficult this transition can be, but now this is recognised.  If you are considering taking this career path, here is some recommended reading...
 
 * [The Manager`s Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.co.uk/Manager%60s-Path-Camille-Fournier/dp/1491973897)
 * [The Making of a Manager: What to Do When Everyone Looks to You](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567)
@@ -64,23 +66,29 @@ There was not the appreciation, support or resources of today's industry on this
 
 ### 👥 Joy of building engineering teams
 
-After the bumpy start, I came to really enjoy hiring, building, coaching and leading large engineering teams.  It's now (almost) as pleasurable and rewarding as building software itself.  
+After the bumpy start, I came to really enjoy hiring, building, coaching and leading large engineering teams.  It's now (almost) as pleasurable and rewarding as building software itself.  Managing engineering organisations of c.200 people clearly has an entirely different set of challenges, successes and rewards.
 
-Specifically, it's been such a privilege to work with so many talented, smart and committed software engineers from around the world. I continue to provide large scale engineering leadership today, if interested you can find out more on about my career history on [LinkedIn](https://www.linkedin.com/in/jonathan-fenwick/).  I remain very focused on and motivated by creating the best possible culture where we delivery quality and individuals thrive.
+Specifically, it's been such a privilege to work with so many talented, smart and committed software engineers from around the world - many who have remained friends long after we've finished working together.
+
+I continue to provide large scale engineering leadership today, you can find out more on about my career history on [LinkedIn](https://www.linkedin.com/in/jonathan-fenwick/).  I remain very focused on and motivated by creating the best possible culture where we delivery quality and individuals thrive.
 
 **Yet, throughout the leadership and management phase of my career the joy of and urge to return to hands-on software engineering has remained... running on an infinite background worker thread.**
 
 ## Inspiration
 
-**I have literally missed developing being a core part of my day job since the day it stopped being so.  For years I have incubated the idea of returning to be an Individual Contributor (IC) role.**
+**I have missed developing being a core part of my day job since the day it stopped being so.  For years I have incubated the idea of returning to be an Individual Contributor (IC) role.**
 
 I read with interest in July 2021 that [Mitchell Hashimoto](https://www.hashicorp.com/blog/mitchell-s-new-role-at-hashicorp), one of the co-founders of [Hashicorp](https://www.hashicorp.com), who's surname is the source of the "Hash" in "Hashicorp" was to move from an exec role back to a technical IC role.  
+
+TODO: ADD SOME FURTHER READING
+
+## Back to reality
+
+### Core challenge
 
 I am not Mitchell, his achievements are significantly greater than mine, yet I found his story a reference point and inspiration - if he could do it, why couldn't I?  
 
 The core challenge is that unlike Mitchell's [GitHub contribution map](https://github.com/mitchellh) shows he remained a very prolific contributor whereas I have not.
-
-## Back to reality
 
 ### 🐦 Technical capability of managers
 
@@ -92,14 +100,14 @@ Whether it's necessary to be technical to manage technical teams is a disputed t
 
 I personally believe engineering leaders are more effective if they have meaningful understanding of engineering practices, patterns and technologies... and the only way to get that is by getting hands-on.  Additionally, I also believe historical technical experience should not be relied on given the rate of innovation, [scientific understanding](https://www.amazon.co.uk/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339) of software delivery, evolution of technical practices and improvement in dev tools.  
 
-**Thus, my view is that those in engineering management & leadership should constantly be upgrading their software engineering knowledge.  This does not mean a complete ability to deliver a production solution, as I rule of thumb I'd say use current tooling to develop a Proof of Concept (PoC).**
+**Therefore, I believe engineering managers & leaders should constantly be upgrading their software engineering knowledge.  This does not mean maintain the ability to deliver a full production solution, as I rule of thumb this means use current tooling to develop a medium to high complexity Proof of Concept (PoC).**
 
 ### 💻 Keeping technical (enough)
 
-Luckily I have followed this myself and haven't entirely become detached 😜...
+Luckily I have followed this principle myself and haven't entirely become detached 😜...
 
 * I sporadically get hands-on with some exploratory projects, these repos are hosted on my [GitHub organisation](https://github.com/delineateio)
-* This year I contributed a couple of merged & released PRs to the official GitHub CLI, [here](https://github.com/cli/cli/pull/5751) and [here](https://github.com/cli/cli/pull/5794)
+* This year I contributed a couple of merged & released PRs to the official [GitHub CLI](https://github.com/cli/cli), [here](https://github.com/cli/cli/pull/5751) and [here](https://github.com/cli/cli/pull/5794)
 * I've taken various technical certifications over the last few years, mainly [Google Cloud Platform](https://googlecloudcertified.credential.net/profile/bf5abdad912171eadb7dbd3d4e49eb493c7759d8?name=Jonathan%20Fenwick) and Hashicorp certifications
 * If time allows, I do also make minor contributions to internal projects at [Capco](https://www.capco.com).  That is increasingly rare given my other commitments
 
@@ -107,7 +115,7 @@ Luckily I have followed this myself and haven't entirely become detached 😜...
 
 **Whilst I'm not starting from ground zero, I'm also not naive.  I certainly do not subscribe to the view that software engineering is "easy" to learn, let alone master.**
 
-The biggest misconception I come across is that "coding" == "software engineering".  I'd encourage reading [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.amazon.co.uk/Software-Engineering-Google-Lessons-Programming/dp/1492082791) to clearly distinguish between the two.  I intend to be software engineering IC, at a senior and high standard.  That is why on the surface my estimate of 3 to 4 years may seem excessive, to me it's realistic.
+The biggest misconception I come across is that "coding" == "software engineering".  It is not, I'd recommend reading [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.amazon.co.uk/Software-Engineering-Google-Lessons-Programming/dp/1492082791) to clearly distinguish between the two.  I intend to be software engineering IC, at a senior and high standard.  That is why on the surface my estimate of how long this transition will take may seem excessive.
 
 ### ⏳ Time can't be bought
 
@@ -116,8 +124,6 @@ I'm realistic it's going to take a significant investment in time to reach the l
 > It's the only thing you can't buy. I mean, I can buy anything I want basically but I can't buy time.
 
 [Warren Buffet](https://www.forbes.com/sites/barnabylashbrooke/2019/01/24/warren-buffett-thinks-you-cannot-buy-time-but-what-if-you-could)
-
-
 
 ## Goal, approach & timing
 
