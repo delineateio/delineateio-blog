@@ -1,6 +1,6 @@
 ---
 title: "Becoming an individual contributor (again!)"
-date: 2022-09-24T00:00:00+05:30
+date: 2022-11-21T00:00:00+05:30
 tags: ["IC"]
 summary: "My career goal is transition over time away from Engineering leadership back to being a hands-on software engineering Individual Contributor (IC).  This post lays out background, motivation and plan to achieve that change in direction."
 ---
