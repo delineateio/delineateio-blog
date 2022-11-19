@@ -5,9 +5,9 @@ tags: ["IC"]
 summary: "My career goal is transition over time away from Engineering leadership back to being a hands-on software engineering Individual Contributor (IC).  This post lays out background, motivation and plan to achieve that change in direction."
 ---
 
-## tldr;
+## tldr
 
-Today, I'm firing the starting gun on my career goal to transition away from Engineering leadership back to being a hands-on software engineering [Individual Contributor (IC)]((https://www.linkedin.com/pulse/what-individual-contributors-alison-miles-jenkins/)).  This post lays out the high level background, motivations and approach I'm intending take to achieve that goal.  
+Today, I'm firing the starting gun on my career goal to transition away from Engineering leadership back to being a hands-on software engineering [Individual Contributor (IC)]((https://www.linkedin.com/pulse/what-individual-contributors-alison-miles-jenkins/)).  This post lays out the high level background, motivations and approach I'm intending take to achieve that goal.
 
 You can follow this journey by ...
 
@@ -22,7 +22,7 @@ You can follow this journey by ...
 
 ### 🌍 Birth of the Commercial Internet
 
-**My career as a professional software developer started in 1995 working on web based applications, I remained fully hands-on for the next 10 years until 2005**
+**My career as a professional software developer started in 1995 working on web based applications, I remained fully hands-on for the next 10 years until 2005.**
 
 It was an exciting time.  Internet usage was minimal ([1.9% of the UK population](https://www.google.com/search?q=UK+Internet+usage+in+1995)) while ideas, opportunities and dreams were endless for the "new" global technology infrastructure.  I struggle to fully articulate the experience of being a developer during this period, particularly to [Gen Z](https://en.wikipedia.org/wiki/Generation_Z) who don't (at least in western countries) remember a world without near constant internet connectivity and access to digital services that are integral to their lives today.
 
@@ -38,11 +38,11 @@ What a time to be alive!  What a time to be a developer!
 
 I used real books bought from real book shops as my primary learning tool - no YouTube videos, no [Mooc](https://www.mooc.org/), no open source which was coined in [1998](https://opensource.org/history)).  These books were very expensive, and yet littered with incorrect code snippets as the technology was moving far faster than the book authoring process - ironically a perfect use case of the value of the internet!
 
-At the time this was infuriating, in retrospect this was an (unintentionally) an excellent way to learn. Curiosity, research and tricky debugging were daily necessities that honed my software development skills.  I was totally obsessed and committed to the pursuit of mastering software engineering, in retrospect to almost unhealthy levels.  I would study and practice late into the night, 3am not being uncommon, while working a relatively mundane full time day job 💤.  
+At the time this was infuriating, in retrospect this was an (unintentionally) an excellent way to learn. Curiosity, research and tricky debugging were daily necessities that honed my software development skills.  I was totally obsessed and committed to the pursuit of mastering software engineering, in retrospect to almost unhealthy levels.  I would study and practice late into the night, 3am not being uncommon, while working a relatively mundane full time day job 💤.
 
 ### 🐛 Caught by the bug
 
-I was intoxicated by the constant learning, problem solving and being able to build solutions that solved real world challenges.  
+I was intoxicated by the constant learning, problem solving and being able to build solutions that solved real world challenges.
 
 I caught (pun intended) the bug of software engineering and it has subsequently shaped my life, professional and personal, and I loved being a software developer.
 
@@ -78,7 +78,7 @@ I continue to provide large scale engineering leadership today, you can find out
 
 **I have missed developing being a core part of my day job since the day it stopped being so.  For years I have incubated the idea of returning to be an Individual Contributor (IC) role.**
 
-I read with interest in July 2021 that [Mitchell Hashimoto](https://www.hashicorp.com/blog/mitchell-s-new-role-at-hashicorp), one of the co-founders of [Hashicorp](https://www.hashicorp.com), who's surname is the source of the "Hash" in "Hashicorp" was to move from an exec role back to a technical IC role.  
+I read with interest in July 2021 that [Mitchell Hashimoto](https://www.hashicorp.com/blog/mitchell-s-new-role-at-hashicorp), one of the co-founders of [Hashicorp](https://www.hashicorp.com), who's surname is the source of the "Hash" in "Hashicorp" was to move from an exec role back to a technical IC role.
 
 * [From individual contributor to manager, and back again](https://leaddev.com/professional-development/individual-contributor-manager-and-back-again)
 * [Individual contributor vs. tech lead - which one's you?](https://candor.co/articles/career-paths/individual-contributor-vs-tech-lead-which-one-s-you)
@@ -100,7 +100,7 @@ Whether it's necessary to be technical to manage technical teams is a disputed t
 
 [Elon Musk tweet](https://twitter.com/elonmusk/status/1522609829553971200?lang=en)
 
-I personally believe engineering leaders are more effective if they have meaningful understanding of engineering practices, patterns and technologies... and the only way to get that is by getting hands-on.  Additionally, I also believe historical technical experience should not be relied on given the rate of innovation, [scientific understanding](https://www.amazon.co.uk/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339) of software delivery, evolution of technical practices and improvement in dev tools.  
+I personally believe engineering leaders are more effective if they have meaningful understanding of engineering practices, patterns and technologies... and the only way to get that is by getting hands-on.  Additionally, I also believe historical technical experience should not be relied on given the rate of innovation, [scientific understanding](https://www.amazon.co.uk/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339) of software delivery, evolution of technical practices and improvement in dev tools.
 
 Therefore, I believe engineering managers & leaders should constantly be upgrading their software engineering knowledge.  This does not mean maintain the ability to deliver a full production solution, as I rule of thumb this means use current tooling to develop a medium to high complexity Proof of Concept (PoC).
 
@@ -157,7 +157,7 @@ There are some specific reasons why now feels the right time to prepare for this
 * 👩 Greater location flexibility means I can support my wife's career trajectory better
 * ❤️ It's probably getting boring now... I know that it is something that I love
 
-## And finally...
+## And finally
 
 The canny reader might have noticed the blog and/or some links in this post using the 'delineate' domain, some years back I acquired a set of top level domains (.io, .dev, .app, .run, .pub).
 
@@ -165,7 +165,7 @@ The canny reader might have noticed the blog and/or some links in this post usin
 
 [Meaning of 'delineate'](https://www.google.com/search?q=meaning+of+delineate)
 
-Under this domain a number of the digital services ([GitHub](https://github.com/delineateio), [Cloudflare](https://www.cloudflare.com), [GCP]("https://") etc) have been setup that I'll be using these for my learning endeavour.  
+Under this domain a number of the digital services ([GitHub](https://github.com/delineateio), [Cloudflare](https://www.cloudflare.com), [GCP]("https://") etc) have been setup that I'll be using these for my learning endeavour.
 
 A simple landing page has been also been created at [https://www.delineate.io](https://www.delineate.io) using [Vercel](https://vercel.com).  Key benefits of this approach is the opportunity to become familiar and skilled in enterprise features of these services and potentially have the ability to collaborate with others using these tools.  For example, this is why my GitHub source code repos are hosted at [delineateio](https://github.com/delineateio) rather than simply at [jf-delineate](https://github.com/jf-delineate) so I can leverage [GitHub organisation features](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/about-organizations).
 
